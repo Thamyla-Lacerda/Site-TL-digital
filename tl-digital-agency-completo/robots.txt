@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tldigital.pt/sitemap.xml
